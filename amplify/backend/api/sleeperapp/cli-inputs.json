@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "sleeperapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\jmsaddi\\Desktop\\aws-jjm\\amplify\\backend\\api\\sleeperapp\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 30,
+      "apiKeyExpirationDate": "2022-05-14T17:06:30.803Z",
+      "keyDescription": "demo"
+    }
+  }
+}
